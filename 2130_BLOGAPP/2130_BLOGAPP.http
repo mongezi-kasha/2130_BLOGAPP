@@ -1,0 +1,6 @@
+@_2130_BLOGAPP_HostAddress = http://localhost:5107
+
+GET {{_2130_BLOGAPP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
